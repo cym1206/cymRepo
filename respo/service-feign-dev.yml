@@ -6,7 +6,7 @@ server:
   port: 8084
 spring:
   application:
-    name: service-feign7777
+    name: service-feign88888
   thymeleaf:
     cache: false
     prefix: classpath:/templates/
